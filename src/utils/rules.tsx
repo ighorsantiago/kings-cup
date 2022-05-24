@@ -1,0 +1,15 @@
+export const rules = [
+      {card: 'a', title: 'Todos bebem', rule: 'Começam ao mesmo tempo mas o da direita só pode parar de beber quando o da esquerda parar.' },
+      {card: '2', title: 'Você bebe', rule: 'Beba 2 goles.' },
+      {card: '3', title: 'Escolha quem vai beber', rule: 'Distribua 3 goles da forma que quiser.' },
+      {card: '4', title: 'Mão na mesa', rule: 'O último a colocar a mão na mesa bebe.' },
+      {card: '5', title: 'Mão pro alto', rule: 'O último a colocar a mão para o alto bebe.' },
+      {card: '6', title: 'Homens bebem', rule: 'Todos os homens bebem.' },
+      {card: '7', title: 'Mulheres bebem', rule: 'Todos as mulheres bebem.' },
+      {card: '8', title: 'Na frente', rule: 'Quem está na sua frente bebe um gole.' },
+      {card: '9', title: 'Sua regra', rule: 'Você cria uma regra e quem descumprir bebe.' },
+      {card: '10', title: 'Categoria', rule: 'Ecolha uma categoria e o primeiro a errar ou não saber bebe.' },
+      {card: 'j', title: 'Frase', rule: 'Cada jogador fala uma palavra e o primeiro a errar bebe.' },
+      {card: 'q', title: 'Rima', rule: 'Você fala uma palavra e o próximo tem que falar uma outra que rime com a sua.' },
+      {card: 'k', title: 'Rei', rule: 'No quarto rei o jogo acaba.' },
+];
